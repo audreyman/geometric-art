@@ -1,1 +1,3 @@
-# geometric-art
+# Coding Geometric Art
+
+## General information
