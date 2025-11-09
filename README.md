@@ -17,6 +17,7 @@ By creating this prototype project I also aimed to develop and demonstrate a new
 
 ## Technologies Used
 - Processing (Python mode) – 4.4.10 for macOS
+- Python Mode for Processing 4 (author Jonathon Feinberg)
 - Processing libraries for colour management
 - Various online resources including forums and cheatsheets provided.
 
