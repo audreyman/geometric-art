@@ -20,7 +20,8 @@ Processing (Python mode) – 4.4.10 for macOS
 Processing libraries for colour management
 Various online resources including forums and cheatsheets provided.
 
-## Room for Improvement (and stretch goals)
+## Room for Improvement
+aka stretch goals:
 Implement user interaction (such as mouse or keyboard inputs) to alter shapes or colours dynamically.
 Incorporate animation or looping behaviour to explore motion.
 Experiment with how music could complement the visuals.
